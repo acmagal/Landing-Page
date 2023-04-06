@@ -2,14 +2,21 @@
     
     header {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        
     }
 
     main {
         flex-direction: column;
+        justify-content: center;
+        
     }
 
     h2 {
         font-size: 38px;
+        font-weight: 300;
     }
 
     form {
@@ -17,15 +24,22 @@
         width: 100%;
     }
 
-    input {
-        align-self: center;
-    }
 
     img {
         display: none;
     }
 
     ul {
-        text-align: center;
+        
+        justify-self: auto;
+        
+    }
+
+    #conta {
+        display: flex;
+        justify-content: center;
+        justify-self: center;
+
+
     }
 }
