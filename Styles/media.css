@@ -4,14 +4,11 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        
-        
     }
 
     main {
         flex-direction: column;
         justify-content: center;
-        
     }
 
     h2 {
@@ -30,9 +27,9 @@
     }
 
     ul {
-        
-        justify-self: auto;
-        
+        display: inline-block;
+        justify-content: center;
+        padding-right: 15%;
     }
 
     #conta {
