@@ -1,6 +1,8 @@
 # Landing-Page
 Estudo de Landing Page usando Html e CSS.
 
+Dê uma olhada: https://acmagal.github.io/Landing-Page-1/
+
 O que aprendi com esse projeto:
 
 - Mover componentes e estilos para pastas especificas facilita a identificação posterior e refatoração.
@@ -25,4 +27,5 @@ O que aprendi com esse projeto:
 
 - Usando o padrão form [type="submit"] {} posso acessar apenas o tipo submit.
 
-- 
+- Aprendi a usar o arquivo media.css para promover a responsividade do site.
+

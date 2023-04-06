@@ -89,7 +89,7 @@ form [type="submit"] {
     font-weight: bold;
 }
 
-form [type="submit"];:hover {
+form [type="submit"]:hover {
     cursor: pointer;
 }
 
