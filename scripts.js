@@ -4,7 +4,10 @@ function logar(){
     
 
     if(login == "admin" && senha == "admin"){
-        alert('Sucesso');
+        alert('Sucesso!');
+    }
+    else{
+        alert('Credenciais Incorretas!')
     }
 }
 
