@@ -1,33 +1,70 @@
-# Landing-Page
-Estudo de Landing Page usando Html e CSS.
+# Getting Started with Create React App
 
-Dê uma olhada: https://acmagal.github.io/Landing-Page-1/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-O que aprendi com esse projeto:
+## Available Scripts
 
-- Mover componentes e estilos para pastas especificas facilita a identificação posterior e refatoração.
+In the project directory, you can run:
 
-- Aside, tag semantica que informa que a organização da div está lado a lado.
+### `npm start`
 
-- Para alterar o placeholder (nome) do type submit, usamos sempre o "value".
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- article, div semântica para locais onde terá imagem.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Quando estiver inserindo uma imagem, a tag alt será usada para inseriri uma descrição a imagem.
+### `npm test`
 
-- Aprendi que é boa prática deixar um arquivo separado com as fontes usadas na estilização do site e linkar a rota dela no styles.css.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Diferente do primeiro projeto, onde cada div era nomeado como lado direito e esquerdo, percebi que inserindo a tag aside fica mais profissional, visto que o que realmente será alterado será a estilização.
+### `npm run build`
 
-- O display inline block serve para deixar listas em uma linha só.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- a:hover no css definirá a ação de passar o mouse por cima do link.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Por padrão, o form ocupa 100% o tamanho da div.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Usando o padrão form [type="submit"] {} posso acessar apenas o tipo submit.
+### `npm run eject`
 
-- Aprendi a usar o arquivo media.css para promover a responsividade do site.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
